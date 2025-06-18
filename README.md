@@ -1,6 +1,6 @@
 Hi there, I'm Tejeswar! 👋
 
-Welcome to my GitHub profile! I'm an aspiring developer passionate about creating impactful software solutions and constantly learning new technologies. Here's a bit about me:
+Welcome to my GitHub (where my codes live)! I'm an aspiring developer passionate about creating impactful software solutions and constantly learning new technologies. Here's a bit about me:
 
 🚀 About Me:
 
