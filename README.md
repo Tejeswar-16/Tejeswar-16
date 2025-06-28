@@ -2,6 +2,7 @@ Hi there, I'm Tejeswar! 👋
 
 Welcome to my GitHub (where my codes live)! I'm an aspiring developer passionate about creating impactful software solutions and constantly learning new technologies. 
 Visit my Portfolio: https://portfolio-tejeswar-s.vercel.app/
+
 Here's a bit about me:
 
 🚀 About Me:
