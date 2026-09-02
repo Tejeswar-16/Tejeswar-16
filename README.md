@@ -10,7 +10,7 @@ Here's a bit about me:
 🎓 Student at SASTRA University
 
       Member of the ACE club.
-      Part of the App Development cluster.
+      Team Lead - App Development cluster.
 
 💻 Skills and Interests:
 
